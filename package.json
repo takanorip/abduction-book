@@ -5,11 +5,12 @@
   "author": "takanorip <takanori0170@gmail.com>",
   "scripts": {
     "build": "vivliostyle build",
-    "preview": "vivliostyle preview"
+    "preview": "vivliostyle preview",
+    "watch:scss": "sass --watch themes/theme-abduction"
   },
   "dependencies": {
     "@vivliostyle/cli": "latest",
-    "@vivliostyle/theme-gutenberg": "^0.1.1"
+    "sass": "^1.54.4"
   },
   "license": "MIT",
   "private": true

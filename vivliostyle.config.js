@@ -3,7 +3,7 @@ module.exports = {
   author: "takanorip <takanori0170@gmail.com>", // default to `author` in `package.json` or undefined.
   language: "ja", // default to undefined.
   size: "A5", // paper size.
-  theme: "theme-abduction", // .css or local dir or npm package. default to undefined.
+  theme: "themes/theme-abduction", // .css or local dir or npm package. default to undefined.
   entry: [
     "0.md",
     "100.md",

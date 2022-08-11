@@ -130,6 +130,7 @@ dist
 .pnp.*
 
 contents/themes
+contents/publication.json
 themes/**/*.css
 themes/**/*.css.map
 *.pdf
